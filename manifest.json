@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "PrettySplash",
+    "version": "1.0",
+  
+    "description": "Adds pretty images to new tab page",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+  
+}
